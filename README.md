@@ -9,4 +9,4 @@ Hardware components that are used are push button,LCD,LEDs and servo motors(as a
 
 The communication between Raspberry Pi and Arduino is done by transfer of strings and UTF-8 encryption.Raspberry Pi decodes commands sent by Arduino whenevr an event happens and then uses it to do some telegram and camera handling.
 
-I have attachted the python code for Raspberry Pi and Arduino Sketch and also the service file of the project(It is of my tutor as I currently dont have Raspbian OS and Linux machine to generate and run it). 
+I have attachted the python code for Raspberry Pi and Arduino Sketch and also the service file of the project to bootstrap directly on your Linux Machine. 
